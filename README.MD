@@ -28,7 +28,7 @@ A simple, clean desktop to-do list app made with Python and Tkinter.
 - Place it in any folder.
 - Double-click to run — no installation or setup required!
 
-📝 The app will automatically save/load your list from a `my_to_do_list.txt` file in the same folder as the `.exe`.
+📝 The app will automatically save/load your list from a `TrevList_SavedList.txt` file in the same folder as the `.exe`.
 
 ---
 
