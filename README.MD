@@ -23,8 +23,17 @@ A simple, clean desktop to-do list app made with Python and Tkinter.
 
 ## Run It Yourself
 
-### Option 1: Run the Python Script
-You’ll need Python 3 installed.
+### Option 1: Use the Standalone App (`TrevList.exe`)
+- Download `TrevList.exe` from the [Releases](../../releases) tab.
+- Place it in any folder.
+- Double-click to run — no installation or setup required!
+
+📝 The app will automatically save/load your list from a `my_to_do_list.txt` file in the same folder as the `.exe`.
+
+---
+
+### Option 2: Run the Python Script
+If you want to run or modify the code:
 
 ##  Author
 
