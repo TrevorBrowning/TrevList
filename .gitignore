@@ -1,0 +1,11 @@
+# Ignore PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Optional: Ignore saved data
+TrevList_Saved_List.txt
